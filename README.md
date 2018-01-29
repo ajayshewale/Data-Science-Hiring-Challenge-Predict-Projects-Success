@@ -16,6 +16,7 @@ In this challenge, you have to predict if a project will get successfully funded
 
 ## Data Description
 There are three files given to download: train.csv, test.csv and sample_submission.csv The train data consists of sample projects from the May 2009 to May 2015. The test data consists of projects from June 2015 to March 2017. 
+Download dataset from this [link](https://he-s3.s3.amazonaws.com/media/hackathon/data-science-hiring-challenge/funding-successful-projects-c40d55cb-92e5b384/a339bbf8fa8511e7.zip)
 
 ## Submission
 A participant has to submit a csv file with project_id and predicted labels. Check the sample submission file for reference. Also, share your source code.
@@ -43,9 +44,7 @@ Here is an excellent link to [How to run Jupyter Notebook](http://jupyter.readth
 ## This repository contains following files:
 - Dataset (Train and Test )
 
-     train.csv
-     
-     text.csv 
+  Sample_Submission.csv
 
 - Graph
 
